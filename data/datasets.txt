@@ -1,0 +1,5 @@
+The data set used for this study is based on the code from and adapted to produce the required resolutions of 513x513.
+Lesser resolutions are then sub-sampled from there.
+  
+Find the 513x513 dataset at the following link
+https://drive.google.com/drive/folders/1Q3QiSvuqT1zuE71GS0lxiTeDLXcdmXFw?usp=drive_link
