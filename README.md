@@ -1,4 +1,4 @@
-# 'Deep Learning Methods for Partial Differential Equations and Related Parameter Identification Problems'
+# Deep Learning Methods for Partial Differential Equations and Related Parameter Identification Problems
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
